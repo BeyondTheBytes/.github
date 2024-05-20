@@ -1,2 +1,1 @@
-# .github
-Beyond the Bytes - Profile Information
+# Beyond the Bytes - Public Profile Information
